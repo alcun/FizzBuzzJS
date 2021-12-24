@@ -1,4 +1,4 @@
-//solves game of FIZZBUZZ using while loop and if else syntax
+//solves game of FIZZBUZZ using do while loop and if else syntax
 //see README.md for rules of game
 
 let i = 1;
